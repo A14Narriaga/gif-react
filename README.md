@@ -14,7 +14,9 @@
   <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Test-Vitest_-yellow.svg" alt="swc"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/🐳 Docker_-blue.svg" alt="docker"/></a>
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/GraphQL_-F6009B.svg" alt="docker"/></a>
-    <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/🐶 Husky-1B1B1F.svg" alt="husky"/></a>
+  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/🐶 Husky-1B1B1F.svg" alt="husky"/></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwindcss-0EA5E9.svg" alt="tailwindcss"/></a>
+  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/🐶 Husky-1B1B1F.svg" alt="husky"/></a>
 </p>
 
 ## ⚠️ Envars
