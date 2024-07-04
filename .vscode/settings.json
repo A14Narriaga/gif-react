@@ -27,7 +27,8 @@
 	},
 	"[typescriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	}
+	},
+	"todo-tree.tree.disableCompactFolders": true
 	// "files.exclude": {
 	//   "**/node_modules": true
 	// }

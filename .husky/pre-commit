@@ -39,5 +39,5 @@ echoColorMsg $SECONDARY "5/5 🔎 Generating build..."
 yarn build || (
 echoColorMsg $ERROR "❌ Build failed, please fix it."
   false;
-) 
+)
 echoColorMsg $SUCCESS "✅ Everything seems to be in order, let's send these changes."

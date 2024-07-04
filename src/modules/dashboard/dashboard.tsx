@@ -1,9 +1,9 @@
 import { useState } from "react"
 import { v4 as uuidv4 } from "uuid"
 
-import { CardGrid, Input } from "../components"
+import { CardGrid, Input } from "./components"
 
-const initialState = ["attack on titans"]
+const initialState = ["attack on titan"]
 
 export const Dashboard = () => {
 	const [searches, setSearches] = useState(initialState)

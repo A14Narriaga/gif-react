@@ -7,7 +7,7 @@ FROM base AS development
 EXPOSE ${PORT}
 COPY package.json package.json
 RUN yarn install
-CMD [ "yarn", "start:dev" ]
+CMD [ "yarn", "dev" ]
 
 # Install development dependencies
 FROM base AS dev-deps

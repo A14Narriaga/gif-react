@@ -4,7 +4,7 @@ const env = import.meta.env
 const BASE_URL = env.VITE_GIPHY_BASE_URL as string
 const API_KEY = env.VITE_GIPHY_API_KEY as string
 
-export const getGifs = async (search: string) => {
+export const getGifs = async (search: string): Promise<IGif[]> => {
 	const params = `?api_key=${API_KEY}&q=${search}&limit=10`
 	const url = `https://${BASE_URL}/search${params}`
 	const res = await fetch(url)
